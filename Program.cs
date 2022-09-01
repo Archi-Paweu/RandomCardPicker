@@ -7,6 +7,7 @@
             Console.Write("Wpisz liczbę generowanych kart: ");
 
             string line = Console.ReadLine();
+
             if (int.TryParse(line, out int numberOfCards))
             {
                 foreach (string card in CardPicker.PickACard(numberOfCards))

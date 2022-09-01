@@ -1,0 +1,15 @@
+C:\Users\w-sta\source\repos\PickACard\bin\Debug\net6.0\PickACard.exe
+C:\Users\w-sta\source\repos\PickACard\bin\Debug\net6.0\PickACard.deps.json
+C:\Users\w-sta\source\repos\PickACard\bin\Debug\net6.0\PickACard.runtimeconfig.json
+C:\Users\w-sta\source\repos\PickACard\bin\Debug\net6.0\PickACard.dll
+C:\Users\w-sta\source\repos\PickACard\bin\Debug\net6.0\PickACard.pdb
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.csproj.AssemblyReference.cache
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.AssemblyInfoInputs.cache
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.AssemblyInfo.cs
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.csproj.CoreCompileInputs.cache
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.dll
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\refint\PickACard.dll
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.pdb
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\PickACard.genruntimeconfig.cache
+C:\Users\w-sta\source\repos\PickACard\obj\Debug\net6.0\ref\PickACard.dll
