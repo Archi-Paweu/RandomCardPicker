@@ -9,7 +9,7 @@
     <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,50,0,0">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="25">
             <Label Content="Ile kart wylosować?" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="22"/>
-            <Slider HorizontalAlignment="Left" Margin="15,15,0,0" VerticalAlignment="Top" Width="186" Panel.ZIndex="1" MinWidth="6" Maximum="15" Minimum="1" Foreground="Black"/>
+            <Slider x:Name="numberOfCards" HorizontalAlignment="Left" Margin="15,15,0,0" VerticalAlignment="Top" Width="186" Panel.ZIndex="1" MinWidth="6" Maximum="15" Minimum="1" Foreground="Black"/>
         </StackPanel>
     </Grid>
 </Window>

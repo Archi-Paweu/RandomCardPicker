@@ -23,6 +23,7 @@ namespace CardPickerUI
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("s");
         }
     }
 }
